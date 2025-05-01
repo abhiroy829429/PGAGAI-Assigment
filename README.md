@@ -170,7 +170,7 @@ The PGAGI Analytics Dashboard offers an interactive experience combining weather
   - Tests
   - Deployment
 
-Live Link: [pgagai-assigment.vercel.app]
+Live Link: [https://pgagai-assigment.vercel.app/]
 
 ---
 
