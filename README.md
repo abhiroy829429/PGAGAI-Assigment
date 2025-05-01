@@ -182,8 +182,8 @@ Live Link: [https://pgagai-assigment.vercel.app/]
 ### News Feed  
 ![news](./public/news.png)
 
-### Stock Charts  
-![finance](./public/finance.png)
+### Finance 
+![finance](./finance.png)
 
 
 ---
