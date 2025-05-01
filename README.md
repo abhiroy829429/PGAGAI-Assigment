@@ -177,13 +177,13 @@ Live Link: [https://pgagai-assigment.vercel.app/]
 ## 📸 Screenshots
 
 ### Weather Dashboard  
-![weather](./weather.png)
+![weather](./public/weather.png)
 
 ### News Feed  
-![news](./news.png)
+![news](./public/news.png)
 
 ### Stock Charts  
-![finance](./finance.png)
+![finance](./public/finance.png)
 
 
 ---
