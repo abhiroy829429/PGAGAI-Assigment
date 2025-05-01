@@ -170,15 +170,21 @@ The PGAGI Analytics Dashboard offers an interactive experience combining weather
   - Tests
   - Deployment
 
-Live Link: [https://pgagi-analytics-dashboard.vercel.app]
+Live Link: [pgagai-assigment.vercel.app]
 
 ---
 
 ## 📸 Screenshots
 
-| Weather Dashboard | News Feed | Stock Charts |
-|-------------------|-----------|--------------|
-| ![weather](./weather.png) | ![news](./news.png) | ![finance](./weather.png) |
+### Weather Dashboard  
+![weather](./weather.png)
+
+### News Feed  
+![news](./news.png)
+
+### Stock Charts  
+![finance](./finance.png)
+
 
 ---
 
