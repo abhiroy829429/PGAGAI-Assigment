@@ -183,7 +183,7 @@ Live Link: [https://pgagai-assigment.vercel.app/]
 ![news](./public/news.png)
 
 ### Finance 
-![finance](./finance.png)
+![finance](./public/finance.png)
 
 
 ---
